@@ -1,2 +1,3 @@
-# Database Project
-数据库系统的期末项目，实现的是图书管理系统
+# Course Project of Database System
+
+This project is the final project of database system. Our team implements a Library Management System with C++, and adequetely uses the knowledge of sql.
